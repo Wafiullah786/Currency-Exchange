@@ -1,4 +1,5 @@
 # Currency-Exchange
+<img src = "115.png" width ="380" />
 
 
 INTRODUCTION
@@ -15,3 +16,8 @@ KEY FEATURES:
 6. Manage Loan
 
 TECHNOLOGIES & TOOLS USED
+
+1. Flutter
+2. Dart
+3. Firebase
+4. FCM
