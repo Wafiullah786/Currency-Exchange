@@ -21,3 +21,7 @@ TECHNOLOGIES & TOOLS USED
 2. Dart
 3. Firebase
 4. FCM
+
+SCREENSHOTS
+
+<img src = "1.jpeg" width ="250" /> <img src = "2.jpeg" width ="250" /> <img src = "3.jpeg" width ="250" /> <img src = "4.jpeg" width ="250" /> <img src = "5.jpeg" width ="250" /> <img src = "6.jpeg" width ="250" /> <img src = "7.jpeg" width ="250" /> <img src = "8.jpeg" width ="250" /> <img src = "9.jpeg" width ="250" /> <img src = "10.jpeg" width ="250" /> <img src = "11.jpeg" width ="250" /> <img src = "12.jpeg" width ="250" /> <img src = "13.jpeg" width ="250" /> <img src = "14.jpeg" width ="250" /> <img src = "15.jpeg" width ="250" /> <img src = "16.jpeg" width ="250" /> <img src = "17.jpeg" width ="250" /> <img src = "18.jpeg" width ="250" /> <img src = "19.jpeg" width ="250" /> <img src = "20.jpeg" width ="250" /> <img src = "21.jpeg" width ="250" /> <img src = "22.jpeg" width ="250" /> <img src = "23.jpeg" width ="250" /> <img src = "24.jpeg" width ="250" /> <img src = "25.jpeg" width ="250" /> <img src = "26.jpeg" width ="250" /> <img src = "27.jpeg" width ="250" /> <img src = "28.jpeg" width ="250" />
