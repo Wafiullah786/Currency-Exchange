@@ -1,6 +1,4 @@
 # Currency-Exchange
-<img src = "115.png" width ="380" />
-
 
 INTRODUCTION
 
